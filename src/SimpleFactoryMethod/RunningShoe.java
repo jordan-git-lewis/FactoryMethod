@@ -1,6 +1,10 @@
 package SimpleFactoryMethod;
 
 public class RunningShoe implements Shoe{
+
+  /**
+   * A basic class representation of a RunningShoe to demo the simple factory method
+   */
   public RunningShoe(){
 
   }

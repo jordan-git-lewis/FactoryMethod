@@ -1,7 +1,11 @@
 package SimpleFactoryMethod;
 
-public class Sneaker implements Shoe{
-  public Sneaker(){
+public class Sneaker implements Shoe {
+
+  /**
+   * A basic class representation of a Sneaker to demo the simple factory method
+   */
+  public Sneaker() {
 
   }
 
